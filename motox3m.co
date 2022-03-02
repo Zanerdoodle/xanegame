@@ -1,0 +1,868 @@
+<!DOCTYPE html><html xmlns="https://www.w3.org/1999/xhtml" lang="en-US"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no, minimal-ui"/><title>Moto X3M</title><meta name="title" content="Moto X3M"><meta name="description" content="Moto X3M is the most addicting racing game on the internet. Choose a bike, drive pass obstacles and difficult terrains. "><meta name="external" content="true"><meta name="keywords" content="moto x3m, moto x3m online, moto x3m free, moto x3m unblocked, moto xbm, moto x3m winter"><meta http-equiv="content-language" content="en" /><meta name="news_keywords" content="moto x3m, moto x3m online, moto x3m free, moto x3m unblocked, moto xbm, moto x3m winter"><meta name="distribution" content="Global" /><meta http-equiv="audience" content="General" /><meta name="author" content="Moto X3M" /><meta property="og:url" content="https://motox3m.co" /><meta property="og:description" content="Moto X3M is the most addicting racing game on the internet. Choose a bike, drive pass obstacles and difficult terrains. " /><meta name="resource-type" content="Document" /><meta property="og:image" content="/upload/imgs/options/logo-moto.png" /><meta property="og:title" content="Moto X3M"><meta property="og:site_name" content="Moto X3M"><link rel="image_src" href="/upload/imgs/options/logo-moto.png" /><meta property="og:type" content="article" /><link rel="apple-touch-icon" href="/upload/imgs/options/logo-moto.png"/><link rel="canonical" href="https://motox3m.co" /><link rel="icon" href="/upload/cache/upload/imgs/options/logo-moto-fav-s20x20.png"/><link rel="apple-touch-icon" sizes="57x57" href="/upload/cache/upload/imgs/options/logo-moto-fav-m57x57.png"><link rel="apple-touch-icon" sizes="72x72" href="/upload/cache/upload/imgs/options/logo-moto-fav-m72x72.png"><link rel="apple-touch-icon" sizes="114x114" href="/upload/cache/upload/imgs/options/logo-moto-fav-s20x20.png">
+	<link rel="stylesheet" type="text/css" href="/themes/motox3m/rs/css/font-awesome.css"><link rel="stylesheet" type="text/css" href="/themes/motox3m/rs/css/common.css"><link rel="stylesheet" type="text/css" href="/themes/motox3m/rs/css/main.css?v=1"><script type="text/javascript" src="/themes/motox3m/rs/js/jquery.min.js"></script><link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet"><link rel="alternate" type="application/rss+xml" href="https://motox3m.co/feed.rss" title="Moto X3M RSS FEED"><script>var domain_url = 'https://motox3m.co';</script><script >(function (i, s, o, g, r, a, m) {
+ i['GoogleAnalyticsObject'] = r;
+ i[r] = i[r] || function () {
+ (i[r].q = i[r].q || []).push(arguments)
+ }, i[r].l = 1 * new Date();
+ a = s.createElement(o),
+ m = s.getElementsByTagName(o)[0];
+ a.async = 1;
+ a.src = g;
+ m.parentNode.insertBefore(a, m)
+ })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+ ga('create', 'UA-103809456-20', 'auto');
+ ga('send', 'pageview');
+</script> <script data-ad-client="ca-pub-2759491300777169" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head><script type='text/javascript'>var themeurl = 'http://motox3m.co/themes/motox3m/';
+ function get_format_url(controller, action) {
+ var urlformat = '/:a:.:c:';
+ urlformat = urlformat.replace(':c:', controller);
+ return urlformat.replace(':a:', action);
+ }</script><body><style>/*#navbar{*/
+ /* z-index: 10;*/
+ /* padding-bottom: 20px;*/
+ /*}*/
+ .Serch{
+ padding-top: 50px;
+ position: relative;
+ }
+ .Serch input{
+ width: 100%;
+ padding: 10px;
+ border: 2px;
+ border-radius: 5px;
+ }
+ .Serch button{
+ position: absolute;
+ top: 50px;
+ right: 0px;
+ font-size: 40px;
+ border: none;
+ background: none;
+ }
+.nav-mobile{
+ overflow: hidden;
+ float: left;
+}
+ .menu-nav a {
+ padding: 10px 15px;
+ }
+
+ #navbar a:hover {
+ background-color: #ddd;
+ color: black;
+ border: 2px;
+ border-radius: 5px;
+ }
+
+ #navbar a.active {
+ background-color: #4CAF50;
+ color: white;
+ }
+
+ .content {
+ padding: 16px;
+ }
+
+ .sticky {
+ position: fixed;
+ top: 0;
+ width: 100%;
+ }
+
+ .sticky + .content {
+ padding-top: 60px;
+ }
+	.menu{
+		padding-top:60px;
+	}
+</style><div class="section"><div class="header-top"><div class="container-full"><div class="mainrow"><div class="ov"><div class="left"><div class="img-G"><a title="Moto X3M" href="/"><img src="/upload/cache/upload/imgs/options/logo-moto-m120x120.png"/></a></div></div></div></div></div></div></div></div></div><div class="section"><div id="navbar"><div class="menu-top"><div class="container-full"><div class="mainrow"><div class="b"><div class="nav-mobile"><div class="menu-wrap"><input type="checkbox" class="toggler"><div class="hamburger"><div></div></div><div class="menu"><div><div><ul><div class="Serch"><form action="/search"><input name="q" type="text" placeholder="Search Here"><button type="submit" class="fa fa-search"></button></form></div><li><a href="https://motox3m.co/">HOME</a></li><li><a href="/hot-games">Hot Games</a></li><li><a href="https://motox3m.co/moto-x3m-5-pool-party">Moto X3M 5</a></li><li><a href="/racing-games">RACING GAMES</a></li><li><a href="/tropical-merge">Tropical Merge</a></li>
+</ul></div></div></div></div></div><div class="menu-nav"><ul style="list-style: none; margin: 0; padding: 0" class="main-nav"><li class="main-nav__item"><a href="https://motox3m.co/"
+ class="main-nav__link">HOME</a><a href="/hot-games"
+ class="main-nav__link">Hot Games</a><a href="https://motox3m.co/moto-x3m-5-pool-party" class="main-nav__link">Moto X3M 5</a><a href="/racing-games"
+ class="main-nav__link">RACING GAMES</a><a href="/tropical-merge"
+ class="main-nav__link">Tropical Merge</a></li></ul></div><!--<div class="cater"><dl class="dropdown"><dt><div><span style="font-size: 17px;" class="hida">RACING GAMES<i
+ style="padding-left: 10px;" class="fa fa-sort-desc"
+ aria-hidden="true"></i></span><p class="multiselct"></p></div></dt><dd><div class="mutliSelect"><ul><li><a href="/racing-games">RACING GAMES </a></li><li><a href="/new-games">NEW GAMES </a></li><li><a href="/hot-games">HOT GAMES </a></li><li><a href="/3d">3D </a></li><li><a href="/hypercasual">Hypercasual </a></li><li><a href="/x3m">x3m </a></li><li><a href="/fun">#fun </a></li><li><a href="/run">#run </a></li><li><a href="/motocross">#motocross </a></li><li><a href="/stunts">#stunts </a></li><li><a href="/racing">Racing </a></li><li><a href="/sports">Sports </a></li><li><a href="/moto">moto </a></li><li><a href="/tracks">tracks </a></li><li><a href="/motogp">motogp </a></li><li><a href="/race">#race </a></li><li><a href="/simulator">#simulator </a></li><li><a href="/webgl">#webgl </a></li><li><a href="/bike">bike </a></li><li><a href="/bikes">bikes </a></li><li><a href="/driving">driving </a></li><li><a href="/motorbike">motorbike </a></li><li><a href="/motorcycle">motorcycle </a></li><li><a href="/stunt">stunt </a></li><li><a href="/biker">biker </a></li><li><a href="/drifting">drifting </a></li><li><a href="/car">#car </a></li><li><a href="/drive">#drive </a></li><li><a href="/racer">#racer </a></li><li><a href="/drift">#drift </a></li><li><a href="/carrace">carrace </a></li><li><a href="/adventure">Adventure </a></li><li><a href="/arcade">Arcade </a></li><li><a href="/html5">#html5 </a></li><li><a href="/game">#game </a></li><li><a href="/casual">#casual </a></li><li><a href="/html5games">#html5games </a></li><li><a href="/cars">#cars </a></li><li><a href="/platform">#platform </a></li><li><a href="/topgame">#topgame </a></li><li><a href="/2d">#2d </a></li><li><a href="/truck">#truck </a></li><li><a href="/best">#best </a></li><li><a href="/boy">#boy </a></li><li><a href="/boys">#boys </a></li><li><a href="/platformer">#platformer </a></li><li><a href="/kidsgame">#kidsgame </a></li><li><a href="/1player">#1player </a></li><li><a href="/games">#games </a></li><li><a href="/unity">#unity </a></li><li><a href="/bestgame">#bestgame </a></li><li><a href="/cargame">#cargame </a></li><li><a href="/browsergame">#browsergame </a></li><li><a href="/action">Action </a></li><li><a href="/bicycle">bicycle </a></li><li><a href="/mountain">mountain </a></li><li><a href="/physics">physics </a></li><li><a href="/trial">trial </a></li><li><a href="/freestyle">freestyle </a></li><li><a href="/crazy">crazy </a></li><li><a href="/dirtbike">dirtbike </a></li><li><a href="/wheelie">wheelie </a></li><li><a href="/sky">sky </a></li><li><a href="/stunning">stunning </a></li><li><a href="/skydive">skydive </a></li><li><a href="/bikers">biker's </a></li><li><a href="/stun">stun </a></li><li><a href="/addicting">addicting </a></li><li><a href="/addictive">addictive </a></li><li><a href="/adictive">adictive </a></li><li><a href="/android">android </a></li><li><a href="/motor">motor </a></li><li><a href="/motorcycles">motorcycles </a></li><li><a href="/track">track </a></li><li><a href="/amazing">amazing </a></li><li><a href="/androidn">android\n </a></li><li><a href="/hngames">#hngames </a></li><li><a href="/madracing">madracing </a></li><li><a href="/ancient">#ancient </a></li><li><a href="/speed">#speed </a></li><li><a href="/challenging">#challenging </a></li><li><a href="/hard">#hard </a></li><li><a href="/hd">#hd </a></li><li><a href="/addition">#addition </a></li><li><a href="/offroad">#offroad </a></li><li><a href="/html">#html </a></li><li><a href="/simulation">#simulation </a></li><li><a href="/automatic">automatic </a></li><li><a href="/2020">2020 </a></li><li><a href="/covid-19">#covid-19 </a></li><li><a href="/final">#final </a></li><li><a href="/realistic">#realistic </a></li><li><a href="/3d-game">3d-game </a></li><li><a href="/halloween">halloween </a></li><li><a href="/levels">levels </a></li><li><a href="/bear">bear </a></li><li><a href="/puzzle">Puzzle </a></li><li><a href="/airplane">airplane </a></li><li><a href="/airport">airport </a></li><li><a href="/flying">flying </a></li><li><a href="/new">new </a></li><li><a href="/parking">parking </a></li><li><a href="/plane">plane </a></li><li><a href="/tycoon">tycoon </a></li><li><a href="/airplanes">airplanes </a></li><li><a href="/planes">planes </a></li><li><a href="/mobile">#mobile </a></li><li><a href="/go">#go </a></li><li><a href="/braining">#braining </a></li><li><a href="/trending">#trending </a></li><li><a href="/brain">#brain </a></li><li><a href="/vehicles">#vehicles </a></li><li><a href="/colorful">#colorful </a></li><li><a href="/puzzles">#puzzles </a></li><li><a href="/indie">#indie </a></li><li><a href="/challenge">#challenge </a></li><li><a href="/fly">#fly </a></li><li><a href="/farming">Farming </a></li><li><a href="/build">build </a></li><li><a href="/builder">builder </a></li><li><a href="/farm">#farm </a></li><li><a href="/shooting">Shooting </a></li><li><a href="/heroes">heroes </a></li><li><a href="/superheroes">superheroes </a></li><li><a href="/movie">Movie </a></li><li><a href="/unity3d">Unity3D </a></li><li><a href="/2-player">2 Player </a></li><li><a href="/2players">#2players </a></li><li><a href="/defense">#defense </a></li><li><a href="/merge">#merge </a></li><li><a href="/towerdefense">#towerdefense </a></li><li><a href="/cannon">cannon </a></li><li><a href="/chicken">chicken </a></li><li><a href="/antistress">#antistress </a></li><li><a href="/browser">#browser </a></li><li><a href="/construct3">#construct3 </a></li><li><a href="/cool">#cool </a></li><li><a href="/fast-paced">#fast-paced </a></li><li><a href="/funny">#funny </a></li><li><a href="/onetouch">#onetouch </a></li><li><a href="/popular">#popular </a></li><li><a href="/rotate">#rotate </a></li><li><a href="/slice">#slice </a></li><li><a href="/spin">#spin </a></li><li><a href="/touch">#touch </a></li><li><a href="/web">#web </a></li><li><a href="/rpg">rpg </a></li><li><a href="/strategy">strategy </a></li><li><a href="/fire">#fire </a></li><li><a href="/gameforkids">#gameforkids </a></li><li><a href="/kid">#kid </a></li><li><a href="/kids">#kids </a></li><li><a href="/shoot">#shoot </a></li><li><a href="/shooter">#shooter </a></li><li><a href="/skill">#skill </a></li><li><a href="/agent">agent </a></li><li><a href="/forkids">forkids </a></li><li><a href="/kidgames">kidgames </a></li><li><a href="/kill">kill </a></li><li><a href="/killer">killer </a></li><li><a href="/killing">killing </a></li><li><a href="/skillful">skillful </a></li><li><a href="/skills">skills </a></li><li><a href="/timekiller">timekiller </a></li><li><a href="/stickman">Stickman </a></li><li><a href="/parkour">#parkour </a></li><li><a href="/girls">Girls </a></li><li><a href="/runner">#runner </a></li><li><a href="/running">#running </a></li><li><a href="/heel">heel </a></li><li><a href="/heels">heels </a></li><li><a href="/shoe">shoe </a></li><li><a href="/shoes">shoes </a></li><li><a href="/music">#music </a></li><li><a href="/kiz10">kiz10 </a></li><li><a href="/io">.IO </a></li><li><a href="/arena">#arena </a></li><li><a href="/battle">#battle </a></li><li><a href="/escape">#escape </a></li><li><a href="/responsive">#responsive </a></li><li><a href="/online">#online </a></li><li><a href="/survival">#survival </a></li><li><a href="/collect">#collect </a></li><li><a href="/love">#love </a></li><li><a href="/lover">#lover </a></li><li><a href="/clothes">clothes </a></li><li><a href="/clothing">clothing </a></li><li><a href="/makeover">makeover </a></li></ul></div></dd></dl></div>--><div class="dark"><style>
+ .theme-switch-wrapper .fa {
+ font-size: 20px;
+ color: #333231;
+ padding: 0 5px;
+ }
+
+ [data-theme="dark"] {
+ --bg-color: #161625;
+ }
+
+ nav {
+ display: flex;
+ justify-content: flex-end;
+ padding: 20px 0;
+ }
+
+ .theme-switch-wrapper {
+ display: flex;
+ align-items: center;
+
+ em {
+ margin-left: 10px;
+ font-size: 1rem;
+ }
+
+ }
+ .theme-switch {
+ /*display: inline-block;*/
+ height: 15px;
+ position: relative;
+ width: 42px;
+ margin: 0;
+ }
+
+ .theme-switch input {
+ display: none;
+ }
+
+ input:checked + .slider {
+ background-color: #f0f6f7;
+ }
+
+ .slider {
+ background-color: #04333b;
+ bottom: 0;
+ cursor: pointer;
+ left: 0;
+ position: absolute;
+ right: -3px;
+ top: 0;
+ transition: .4s;
+ }
+
+ .slider:before {
+ background-color: #e30000;
+ bottom: 1px;
+ content: "";
+ height: 13px;
+ left: 2px;
+ position: absolute;
+ transition: .4s;
+ width: 15px;
+ }
+
+ input:checked + .slider {
+
+ }
+
+ input:checked + .slider:before {
+ transform: translateX(26px);
+ }
+
+ .slider.round {
+ border-radius: 34px;
+ }
+
+ .slider.round:before {
+ border-radius: 50%;
+ }
+</style><div class="theme-switch-wrapper"><span style="color: #ffffff" class="fa fa-lightbulb-o"></span><label class="theme-switch" for="checkbox"><input type="checkbox" id="checkbox"/><div class="slider round"></div></label><em><i class="fa fa-lightbulb-o" aria-hidden="true"></i></em></div>
+<section><script>const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
+ const currentTheme = localStorage.getItem('theme');
+
+ if (currentTheme) {
+ document.documentElement.setAttribute('data-theme', currentTheme);
+
+ if (currentTheme === 'dark') {
+ toggleSwitch.checked = true;
+ }
+ }
+
+ function switchTheme(e) {
+ if (e.target.checked) {
+ document.documentElement.setAttribute('data-theme', 'dark');
+ localStorage.setItem('theme', 'dark');
+ } else {
+ document.documentElement.setAttribute('data-theme', 'light');
+ localStorage.setItem('theme', 'light');
+ }
+ }
+
+ toggleSwitch.addEventListener('change', switchTheme, false);</script> </div><div class="search"><div class="searchbox"><form action="/search"><input name="q" type="search" placeholder="Search......" name="search"
+ class="searchbox-input" onkeyup="buttonUp();" required><input type="submit" class="searchbox-submit" value="Go"><span class="searchbox-icon"><i class="fa fa-search" aria-hidden="true"></i></span></form></div></div><style>.menu ul {
+ padding: 0;
+ }
+ .menu-wrap {
+ display: none;
+ }
+ .menu-wrap .toggler {
+ position: absolute;
+ z-index: 2;
+ cursor: pointer;
+ width: 50px;
+ height: 50px;
+ opacity: 0;
+ }
+ .menu-wrap .hamburger {
+ left: 0;
+ z-index: 1;
+ width: 60px;
+ height: 60px;
+ padding: 1rem;
+ background: #333;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ float: left;
+ position: relative;
+ }
+ .menu-wrap .hamburger > div {
+ position: relative;
+ flex: none;
+ width: 100%;
+ height: 2px;
+ background: #fff;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ transition: all 0.4s ease;
+						
+ }
+ .menu-wrap .hamburger > div::before,
+ .menu-wrap .hamburger > div::after {
+ content: '';
+ position: absolute;
+ z-index: 1;
+ top: -10px;
+ width: 100%;
+ height: 2px;
+ background: inherit;
+ }
+ .menu-wrap .hamburger > div::after {
+ top: 10px;
+ }
+ Turns Lines Into X
+ .menu-wrap .toggler:checked + .hamburger > div:before,
+ .menu-wrap .toggler:checked + .hamburger > div:after {
+ top: 0;
+ transform: rotate(90deg);
+ }
+ .menu-wrap .toggler:checked:hover + .hamburger > div {
+ transform: rotate(225deg);
+ }
+ .menu-wrap .toggler:checked ~ .menu {
+ visibility: visible;
+ }
+ .menu-wrap .toggler:checked ~ .menu > div {
+ transform: scale(1);
+ transition-duration: var(--menu-speed);
+ }
+ .menu-wrap .toggler:checked ~ .menu > div > div {
+ opacity: 1;
+ transition: opacity 0.4s ease 0.4s;
+ }
+ .menu-wrap .menu {
+ width: 100%;
+ visibility: hidden;
+ overflow: hidden;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ position: absolute;
+ }
+ .menu-wrap .menu > div {
+ background: var(--overlay-color);
+ display: flex;
+ flex: none;
+ align-items: center;
+ justify-content: center;
+ transform: scale(0);
+ transition: all 0.4s ease;
+ width: 100%;
+								 z-index: 1;
+ }
+ .menu-wrap .menu > div > div > ul > li {
+ list-style: none;
+ color: #fff;
+ font-size: 1.5rem;
+ padding: 1rem;
+ margin: 0;
+								text-align: center;
+ }
+ .menu-wrap .menu > div > div > ul > li > a {
+ color: inherit;
+ text-decoration: none;
+ transition: color 0.4s ease;
+ font-weight: bold;
+ }
+ :root {
+ --primary-color: rgba(13, 110, 139, 0.75);
+ --overlay-color: rgba(24, 39, 51, 0.85);
+ --menu-speed: 0.75s;
+ }
+ @media only screen and (max-width: 767px) {
+
+ .menu-wrap {
+ display: block;
+ }
+ }</style></div>
+</div></div></div></div><script>// cater_drop
+ $(".dropdown dt div").on('click', function () {
+ $(".dropdown dd ul").slideToggle('fast');
+ });
+
+ $(".dropdown dd ul li div").on('click', function () {
+ $(".dropdown dd ul").hide();
+ });
+
+ function getSelectedValue(id) {
+ return $("#" + id).find("dt div span.value").html();
+ }
+
+ $(document).bind('click', function (e) {
+ var $clicked = $(e.target);
+ if (!$clicked.parents().hasClass("dropdown")) $(".dropdown dd ul").hide();
+ });
+
+
+ $(document).ready(function () {
+ var submitIcon = $('.searchbox-icon');
+ var inputBox = $('.searchbox-input');
+ var searchBox = $('.searchbox');
+ var isOpen = false;
+ submitIcon.click(function () {
+ if (isOpen == false) {
+ searchBox.addClass('searchbox-open');
+ inputBox.focus();
+ isOpen = true;
+ } else {
+ searchBox.removeClass('searchbox-open');
+ inputBox.focusout();
+ isOpen = false;
+ }
+ });
+ submitIcon.mouseup(function () {
+ return false;
+ });
+ searchBox.mouseup(function () {
+ return false;
+ });
+ $(document).mouseup(function () {
+ if (isOpen == true) {
+ $('.searchbox-icon').css('display', 'block');
+ submitIcon.click();
+ }
+ });
+ });
+
+ function buttonUp() {
+ var inputVal = $('.searchbox-input').val();
+ inputVal = $.trim(inputVal).length;
+ if (inputVal !== 0) {
+ $('.searchbox-icon').css('display', 'none');
+ } else {
+ $('.searchbox-input').val('');
+ $('.searchbox-icon').css('display', 'block');
+ }
+ }
+
+
+ //csoll
+
+ window.onscroll = function () {
+ myFunction()
+ };
+
+ var navbar = document.getElementById("navbar");
+ var sticky = navbar.offsetTop;
+
+ function myFunction() {
+ if (window.pageYOffset >= sticky) {
+ navbar.classList.add("sticky")
+ } else {
+ navbar.classList.remove("sticky");
+ }
+ }
+
+</script><div class="section"><div class="box-out"><div class="container-full"><div class="mainrow"><div class="box-play"><div style="padding-bottom: 15px;" class="adsads"><div class="ads-title horizontal-title">Advertisement</div><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Rs-ngangthat --><ins class="adsbygoogle"
+ style="display:block"
+ data-ad-client="ca-pub-2759491300777169"
+ data-ad-slot="2785447187"
+ data-ad-format="auto"
+ data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>						<h2>Play Moto X3M</h2></div><div class="box-left"><div class="box-play1"><script type="text/javascript">document.write('<iframe style="display: block;border-radius: 5px;" id="iframehtml5" width="100%" height="623" src="/moto-x3m.embed" frameborder="0" border="0" scrolling="no" class="iframe-default" allowfullscreen></iframe>');</script><div class="fullscreen"><a id="expand" ><span class="fa fa-arrows-alt"></span></a></div></div><style>.fullscreen{
+ position: absolute;
+ top: 0;
+ right: 0;
+ font-size: 40px;
+ padding-right: 15px;
+ cursor: pointer;
+ }
+ .box-play1 {
+ padding-bottom: 10px;
+ position: relative;
+ }
+
+ .box-newgame {
+ overflow: hidden;
+ background: #10043d;
+ border-radius: 5px;
+ }
+
+ .TT-newgame span {
+ font-size: 40px;
+ color: #ffffff;
+ text-shadow: -1px -1px 0 #080808, 1px -1px 0 #080808, -1px 1px 0 #080808, 1px 1px 0 #080808;
+ padding-left: 5px;
+ line-height: 53px;
+ }
+
+ .TT-newgame {
+ float: left;
+								padding-left: 5px;
+ }
+ .lava{
+ float: right;
+ padding-top: 15px;
+ padding-right: 5px;
+ padding-bottom: 5px;
+ padding-left: 5px;
+ }
+ .lava a{
+ text-decoration: none;
+ font-weight: bold;
+ }</style><div class="box-newgame"><div style="overflow: hidden;"><div style="padding:0 5px 5px 5px;"><div class="TT-newgame"><h2 style="color: #fff">You Also Like</h2> </div></div></div><div style="padding-bottom: 15px;" class="adsads"><div class="ads-title horizontal-title">Advertisement</div><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Rs-ngangthat --><ins class="adsbygoogle"
+ style="display:block"
+ data-ad-client="ca-pub-2759491300777169"
+ data-ad-slot="2785447187"
+ data-ad-format="auto"
+ data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script> </div>							<div style="padding: 0 5px;"><div class="cc_with"><a title="Moto X3M" href="/moto-x3m"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/moto-x3m.png1-m370x278.PNG"></div> </div></a></div><div class="cc_with"><a title="Moto X3M 5: Pool Party" href="/moto-x3m-5-pool-party"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/moto-x3m-5-pool-party-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Moto X3M 2" href="/moto-x3m-2"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/moto-x3m-2-game-m370x278.jpg"></div> </div></a></div><div class="cc_with"><a title="Moto X3M 4: Winter" href="/moto-x3m-4-winter"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/moto-x3m-4-winter1-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Moto X3M 6: Spooky Land" href="/moto-x3m-6-spooky-land"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/moto-x3m-6-spooky-land-2-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Moto Road Rash 3D" href="/moto-road-rash-3d"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/moto-road-rash-3d-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Moto Maniac 3" href="/moto-maniac-3"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/game/moto-maniac-3-cover-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Draw Motor" href="/draw-motor"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/draw-motor1-m370x278.jpg"></div> </div></a></div><div class="cc_with"><a title="Moto Racer" href="/moto-racer"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/moto-racer-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Moto XSpeed GP" href="/moto-xspeed-gp"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/moto-xspeed-gp-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Hill Climb Moto" href="/hill-climb-moto"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/hill-climb-moto-m370x278.jpg"></div> </div></a></div><div class="cc_with"><a title="Moto Fury" href="/moto-fury"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/moto-fury-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Winter Moto" href="/winter-moto"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/winter-moto2-m370x278.jpg"></div> </div></a></div><div class="cc_with"><a title="Motocross game" href="/motocross-game"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/motocross-m370x278.png"></div> </div></a></div></div></div><br><div class="box-newgame"><div style="overflow: hidden;"><div style="padding:0 5px 5px 5px;"><div class="TT-newgame"><h2 style="color: #fff">Hot Games</h2> </div><div class="lava"><a href="/hot-games">All More Hot »</a></div></div></div><div style="padding: 0 5px;"><div class="cc_with"><a title="Moto X3M" href="/moto-x3m"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/moto-x3m.png1-m370x278.PNG"></div> </div></a></div><div class="cc_with"><a title="Road Fury" href="/road-fury"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/road-fury-m370x278.jpg"></div> </div></a></div><div class="cc_with"><a title="Tropical Merge" href="/tropical-merge"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/game/tropical-merge-cover-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Fly THIS!" href="/fly-this"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/game/fly-this-cover-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Moto X3M 5: Pool Party" href="/moto-x3m-5-pool-party"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/moto-x3m-5-pool-party-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Moto X3M 2" href="/moto-x3m-2"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/moto-x3m-2-game-m370x278.jpg"></div> </div></a></div><div class="cc_with"><a title="Vex 6" href="/vex-6"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/game/vex-6-cover-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Short Ride" href="/short-ride"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/short-ride-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Moto X3M 4: Winter" href="/moto-x3m-4-winter"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/moto-x3m-4-winter1-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Excite Bike" href="/excite-bike"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/excite-bike-m370x278.jpg"></div> </div></a></div><div class="cc_with"><a title="Moto X3M 6: Spooky Land" href="/moto-x3m-6-spooky-land"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/moto-x3m-6-spooky-land-2-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Moto Road Rash 3D" href="/moto-road-rash-3d"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/moto-road-rash-3d-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Madalin Stunt Cars 2" href="/madalin-stunt-cars-2"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/madalin-stunt-cars-2-m370x278.png"></div> </div></a></div><div class="cc_with"><a title="Run 3" href="/run-3"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/run-3-m370x278.png"></div> </div></a></div></div></div>	<br><div class="box-newgame"><div style="overflow: hidden;"><div style="padding:0 5px 5px 5px;"><div class="TT-newgame"><h2 style="color: #fff">New Games</h2> </div><div class="lava"><a href="/new-games">All More New »</a></div></div></div><div style="padding: 0 5px;"><div class="cc_with"><a title="DRIVE BIKE STUNT SIMULATOR 3D" href="/drive-bike-stunt-simulator-3d"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/drive-bike-stunt-simulator-3d-512x340-m370x278.jpeg"></div> </div></a></div><div class="cc_with"><a title="CYCLOMANIACS" href="/cyclomaniacs"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/cyclomaniacs-512x340-m370x278.jpeg"></div> </div></a></div><div class="cc_with"><a title="MOTO RUSH" href="/moto-rush"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/moto-rush-512x384-m370x278.jpeg"></div> </div></a></div><div class="cc_with"><a title="EXTREME CYCLING" href="/extreme-cycling"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/extreme-cycling-512x340-m370x278.jpeg"></div> </div></a></div><div class="cc_with"><a title="CRAZY RUNNER IN CITY" href="/crazy-runner-in-city"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/crazy-runer-in-city2-m370x278.jpg"></div> </div></a></div><div class="cc_with"><a title="BOAT DRIFT" href="/boat-drift"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/boat-drift-512x340-m370x278.jpeg"></div> </div></a></div><div class="cc_with"><a title="SUPER BIKE WILD RACE" href="/super-bike-wild-race"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/super-bike-wild-race-512x384-m370x278.jpeg"></div> </div></a></div><div class="cc_with"><a title="HORSE DERBY RACING" href="/horse-derby-racing"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/horse-derby-racing-512x384-m370x278.jpeg"></div> </div></a></div><div class="cc_with"><a title="NINJA RUN" href="/ninja-run"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/ninja-run-512x384-m370x278.jpeg"></div> </div></a></div><div class="cc_with"><a title="CITY BIKE STUNT 2" href="/city-bike-stunt-2"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/city-bike-stunt-2-512x384-m370x278.jpeg"></div> </div></a></div><div class="cc_with"><a title="IMPOSSIBLE CAR STUNT 2022" href="/impossible-car-stunt-2022"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/impossible-car-stunt-2022-512x384-m370x278.jpeg"></div> </div></a></div><div class="cc_with"><a title="SOCCER SKILLS RUNNER" href="/soccer-skills-runner"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/soccer-skills-runner-512x340-m370x278.jpeg"></div> </div></a></div><div class="cc_with"><a title="COASTER RACER 2" href="/coaster-racer-2"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/coaster-racer-2-512x512-m370x278.jpeg"></div> </div></a></div><div class="cc_with"><a title="FALL CARS ULTIMATE KNOCKOUT RACE" href="/fall-cars-ultimate-knockout-race"><div class="cc_hight"><div class="images"><img src="/upload/cache/upload/imgs/fall-cars-ultimate-knockout-race-512x340-m370x278.jpeg"></div> </div></a></div></div></div><div class="box-info"><div class="info-G"><div style="color: #ffffff;font-weight: bold;" class="Name-game"><h1>Moto X3M</h1></div><p><strong><a href="https://motox3m.co/">Moto X3M</a></strong>&nbsp;is the most addicting racing game on the internet. This racing game has nice gameplay, nice graphics, and many levels. Choose a bike, drive pass obstacles, and difficult terrains. Have fun with the Moto X3M game!&nbsp;Obstacles of the game: There will be obstacles litter each on the tracks, steep terrain, spearhead wheels, explosions,...</p><p>&nbsp;</p><p>Moto X3M is an interesting and attractive sports game genre for those with an adventurous hobby - high-speed racing. Our website owns a lot of different racing game such as motorcycle racing games, car racing games, 3D racing games ... you can freely play and challenge the racing game on motox3m.co!</p><p>&nbsp;</p><p><strong>Moto X3M Game Features:</strong></p><p>-&nbsp; Over 25 challenging stunning levels</p><p>- Balance bike with the arrows keys<br />- Unlock Bikes<br />- Sick stunts and insane tricks as you flip and wheelie through levels<br />- This game has more high octane levels<br />- This game has timed levels<br />- This game has checkpoints<br />- This game has a User Selected Control scheme<br />- Play the game on platforms: Web browser, Android, iOS</p><p>&nbsp;</p><p><strong>The latest versions of the game: <a href="https://motox3m.co/moto-x3m-2">Moto X3M 2</a>, <a href="https://motox3m.co/moto-x3m-4-winter">Moto X3M 4</a>, <a href="https://motox3m.co/moto-x3m-5-pool-party">Moto X3M 5</a>, and <a href="https://motox3m.co/moto-x3m-6-spooky-land">Moto X3M 6</a>.</strong></p><p>&nbsp;</p> </div><div style="padding-top: 10px"><div class="info-G"><div style="color: #ffffff;font-weight: bold;" class="Name-game"><h2>How To Play Moto X3M</h2></div><p>Arrows = Drive</p>									</div></div><div style="padding-top: 10px;display:none"><div class="info-G"></div></div></div></div><div class="box-right"><div style="padding: 5px;padding-top: 0"><div class="name-tag"><i class="fa fa-tags" aria-hidden="true"></i> Tags</div><div style=" background: #10043d;" class="tag-games"><p><a title="moto" href="/tags/moto">moto</a><p> 							<p><a title="x3m" href="/tags/x3m">x3m</a><p> 							<p><a title="racing" href="/tags/racing">racing</a><p> 							<p><a title="moto x3m winter" href="/tags/moto-x3m-winter">moto x3m winter</a><p> 							</div></div><div style="padding: 5px;padding-top: 0"><div style="overflow: hidden;background: #10043d;border-bottom-left-radius: 5px;border-bottom-right-radius: 5px;padding: 3px;"><div style="float: left" class="name-tag1"><img style="width: 65px" src="themes/motox3m/rs/images/iconsmi.gif"></div><div style="float: right" class="name-tag1"><img style="width: 65px" src="themes/motox3m/rs/images/ioc.gif"></div></div></div><div class="W-R"><style>
+
+ #rating {
+ color: #222;
+ padding: 5px;
+ background: #10043d;
+ border-radius: 5px;
+
+ }
+
+ #rating div {
+ padding: 1px 0;
+ margin: 0;
+ line-height: 22px;
+ color: #fff;
+ }
+
+ #rating span {
+ color: #ffffff;
+ }
+
+ #rating img {
+ width: auto !important;
+ height: auto !important;
+ }
+
+ .inner-rating {
+ width: 100%;
+ overflow: auto;
+ }
+
+ .my_progress-bar span {
+ font-family: monospace;
+ font-size: 90%;
+ color: #616161;
+ }
+
+ .full_rate {
+ width: 50%;
+ float: left
+ }
+
+
+ .text-center {
+ text-align: center;
+ }
+
+ .rating_hover {
+ position: relative;
+ }
+
+ .rating {
+ position: absolute;
+ left: 50%;
+ transform: translateX(-50%);
+ }
+
+ .full_rate_star {
+ width: 10%;
+ float: left;
+ position: relative;
+ }
+
+ .full_rate_my_progress {
+ width: 90%;
+ float: left;
+ padding-top: 5px;
+ }
+
+ .full_rate_my_progress span {
+ color: #fff;
+ }
+
+ .full_rate_row {
+ clear: both;
+ }
+
+ .full_rate_star span.gly-phicon {
+ position: absolute;
+ left: 22px;
+ top: 50%;
+ transform: translateY(-50%);
+ font-size: 16px;
+ }
+
+ .my_progress-bar {
+
+ height: 20px;
+ border-radius: 5px;
+ }
+
+ .my_progress {
+ border: 1px solid #efefef;
+ border-radius: 5px;
+ }
+
+ @media only screen and (max-width: 600px) {
+ .full_rate {
+ width: 100%;
+ }
+
+ .rating-desc {
+ padding-top: 30px !important;
+ }
+
+ .full_rate_star {
+ width: 20%;
+ float: left;
+ position: relative;
+ }
+
+ .full_rate_my_progress {
+ width: 80%;
+ float: left;
+ padding-top: 5px;
+ }
+ }
+
+</style><div id="rating"><div class="inner-rating" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"><div id="full_rate_1" class="full_rate"><div class="rate-info text-center" ><span id="rate-avg" rel="v:rating"> <span typeof="v:Rating"><span itemprop="ratingValue" class="rating-num gorgeous" property="v:average"
+ id="averagerate">4.1</span><span
+ class="rating-num gorgeous">/</span><span itemprop="bestRating" class="rating-num gorgeous" property="v:best">5</span></span></span><span property="v:itemreviewed"><span itemprop="reviewAspect" class="rate-title gorgeous"
+ title="Gorgeous">Gorgeous</span></span><div class="rating_hover"><div class="rating" id="default-demo" data-id="354"
+ style="cursor: pointer;margin: 10px;" data-score="4.1"
+ data-readonly=""></div></div><span property="v:count" id="countrate">7145</span><i
+ class="gly-phicon gly-phicon-user"></i></div></div><div id="full_rate_2" class="full_rate"><div class=" rating-desc"><div class="full_rate_row"><div class="full_rate_star">5</div><div class="full_rate_my_progress"><div class="my_progress my_progress-striped"><div id="gorgeous-bar" class="my_progress-bar my_progress-bar-success" role="my_progressbar"
+ aria-valuenow="20"
+ aria-valuemin="0" aria-valuemax="100" style="width: 79.5%"><span id="gorgeous-bar-value"
+ class="sr-only">79.5%</span></div></div></div></div><!-- end 5 --><div class="full_rate_row"><div class="full_rate_star">4</div><div class="full_rate_my_progress"><div class="my_progress"><div id="good-bar" class="my_progress-bar my_progress-bar-good" role="my_progressbar"
+ aria-valuenow="20"
+ aria-valuemin="0" aria-valuemax="100" style="width: 4%"><span id="good-bar-value" class="sr-only">4%</span></div></div></div></div><!-- end 4 --><div class="full_rate_row"><div class="full_rate_star">3</div><div class="full_rate_my_progress"><div class="my_progress"><div id="regular-bar" class="my_progress-bar my_progress-bar-info" role="my_progressbar"
+ aria-valuenow="20"
+ aria-valuemin="0" aria-valuemax="100" style="width: 2.5%"><span id="regular-bar-value"
+ class="sr-only">2.5% </span></div></div></div></div><!-- end 3 --><div class="full_rate_row"><div class="full_rate_star">2</div><div class="full_rate_my_progress"><div class="my_progress"><div id="poor-bar" class="my_progress-bar my_progress-bar-warning" role="my_progressbar"
+ aria-valuenow="20"
+ aria-valuemin="0" aria-valuemax="100" style="width: 2.3%"><span id="poor-bar-value" class="sr-only">2.3%</span></div></div></div></div><!-- end 2 --><div class="full_rate_row"><div itemprop="worstRating" class="full_rate_star">1</div><div class="full_rate_my_progress"><div class="my_progress"><div id="bad-bar" class="my_progress-bar my_progress-bar-danger" role="my_progressbar"
+ aria-valuenow="80"
+ aria-valuemin="0" aria-valuemax="100" style="width: 11.8%"><span id="bad-bar-value" class="sr-only">11.8%</span></div></div></div></div><!-- end 1 --></div><!-- end row --></div></div></div>
+<script type="text/javascript" src="/themes/motox3m/rs/plugins/raty/jquery.raty.js"></script><script>var readdddonly;
+ var style = "-big";
+ readdddonly = $('#default-demo').attr('data-readonly');
+ $('#default-demo').raty({
+ readOnly: readdddonly,
+ cancelOff: '/themes/motox3m/rs/plugins/raty/images/cancel-off.png',
+ cancelOn: '/themes/motox3m/rs/plugins/raty/images/cancel-on.png',
+ starHalf: '/themes/motox3m/rs/plugins/raty/images/star-half' + style + '.png',
+ starOff: '/themes/motox3m/rs/plugins/raty/images/star-off' + style + '.png',
+ starOn: '/themes/motox3m/rs/plugins/raty/images/star-on' + style + '.png',
+ half: true,
+ number: 5,
+ numberMax: 5,
+ score: function () {
+ return $(this).attr('data-score');
+ },
+ click: function (score, evt) {
+ var game_id = $(this).attr('data-id');
+ var rate = $(this).attr('data-score');
+ var url = domain_url + '/rate-game.ajax';
+ var data = {'game_id': game_id, 'score': score};
+ $.ajax({
+ type: "GET",
+ url: url,
+ data: data,
+ cache: false,
+ success: function (html) {
+
+ var data = $.parseJSON(html);
+
+ $('#countrate').text(data.rate_count);
+ $('#averagerate').text(data.rate_average);
+
+ $('#gorgeous-bar').css("width", data.gorgeous + "%");
+ $('#gorgeous-bar-value').html(data.gorgeous + "%");
+ $('#good-bar').css("width", data.good + "%");
+ $('#good-bar-value').html(data.good + "%");
+ $('#regular-bar').css("width", data.regular + "%");
+ $('#regular-bar-value').html(data.regular + "%");
+ $('#poor-bar').css("width", data.poor + "%");
+ $('#poor-bar-value').html(data.poor + "%");
+ $('#bad-bar').css("width", data.bad + "%");
+ $('#bad-bar-value').html(data.bad + "%");
+
+ $(".rating-num").addClass(data.class);
+
+
+ $(".rate-title").addClass(data.class);
+ $(".rate-title").html(data.name);
+
+ $('#default-demo').raty({
+ readOnly: true,
+ cancelOff: '/themes/motox3m/rs/plugins/raty/images/cancel-off.png',
+ cancelOn: '/themes/motox3m/rs/plugins/raty/images/cancel-on.png',
+ starHalf: '/themes/motox3m/rs/plugins/raty/images/star-half' + style + '.png',
+ starOff: '/themes/motox3m/rs/plugins/raty/images/star-off' + style + '.png',
+ starOn: '/themes/motox3m/rs/plugins/raty/images/star-on' + style + '.png',
+ half: true,
+ number: 5,
+ numberMax: 5,
+ score: score
+ });
+ $("#default-demo").css("cursor: pointer;");
+ },
+ error: function () {
+ $('#default-demo').raty({
+ readOnly: true,
+ cancelOff: '/themes/motox3m/rs/plugins/raty/images/cancel-off.png',
+ cancelOn: '/themes/motox3m/rs/plugins/raty/images/cancel-on.png',
+ starHalf: '/themes/motox3m/rs/plugins/raty/images/star-half' + style + '.png',
+ starOff: '/themes/motox3m/rs/plugins/raty/images/star-off' + style + '.png',
+ starOn: '/themes/motox3m/rs/plugins/raty/images/star-on' + style + '.png',
+ half: true,
+ number: 5,
+ numberMax: 5,
+ score: rate,
+ });
+ }
+ });
+ }
+ });</script><style type="text/css">.gorgeous {
+ color: #449d44
+ }
+
+ .my_progress-bar-success {
+ background-color: #449d44
+ }
+
+ .good {
+ color: #449d44
+ }
+
+ .my_progress-bar-good {
+ background-color: #00BCD4
+ }
+
+ .my_progress-bar-info {
+ background-color: #B2EBF2
+ }
+
+ .regular {
+ color: #31b0d5
+ }
+
+ .my_progress-bar-warning {
+ background-color: #ec971f
+ }
+
+ .poor {
+ color: #ec971f
+ }
+
+ .bad {
+ color: #c9302c
+ }
+
+ .my_progress-bar-danger {
+ background-color: #c9302c
+ }
+
+ .rate-title {
+ display: block;
+ font-size: 25px;
+ text-align: center;
+ line-height: 25px;
+ }
+
+ .gly-phicon {
+ margin-right: 5px;
+ }
+
+ .rating .gly-phicon {
+ font-size: 22px;
+ }
+
+ .rating-num {
+ margin-top: 0px;
+ font-size: 40px;
+ line-height: 40px;
+ }
+
+ .my_progress {
+ margin-bottom: 5px;
+ }
+
+ .my_progress-bar {
+ text-align: left;
+ }
+
+ .rating-desc .col-md-3 {
+ padding-right: 0px;
+ }
+
+ .sr-only {
+ margin-left: 5px;
+ overflow: visible;
+ clip: auto;
+ }
+
+ i {
+ margin-left: 5px;
+ margin-right: 5px;
+ }
+</style> </div><div style="padding: 5px;padding-top: 0"><div class="ads-title">Advertisement</div><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Rs-square --><ins class="adsbygoogle"
+ style="display:block"
+ data-ad-client="ca-pub-2759491300777169"
+ data-ad-slot="1327582209"
+ data-ad-format="auto"
+ data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>						</div>							</div></div></div></div></div></div> <style>.scrollup {
+ position: fixed;
+ bottom: 50px;
+ right: 10px;
+ background-color: #548be3;
+ padding: 14px;
+ }</style><a style="color: white" href="#" class="scrollup"><span class="fa fa-arrow-up"></span></a><script>
+ $(document).ready(function () {
+
+ $(window).scroll(function () {
+ if ($(this).scrollTop() > 100) {
+ $('.scrollup').fadeIn();
+ } else {
+ $('.scrollup').fadeOut();
+ }
+ });
+
+ $('.scrollup').click(function () {
+ $("html, body").animate({
+ scrollTop: 0
+ }, 600);
+ return false;
+ });
+
+ });
+</script><style>.my_fade {
+	animation-name: fade;
+	animation-duration: 2s;
+}
+
+@keyframes fade {
+	from {
+		opacity: 1;
+	}
+	to {
+		opacity: 1;
+	}
+}
+img.lozad{
+	width: 100%; 
+	min-height: 120px;
+	background-color: #9e9e9e;
+}</style><script src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script><script> 
+document.addEventListener("DOMContentLoaded", function() {
+	lozad('.lozad', {
+		load: function(el) {
+			el.onload = function() {
+				el.classList.add('my_fade'); 
+			}
+			el.src = el.dataset.src;
+			
+		}
+	}).observe();
+});	</script><div class="section"><div class="footer"><div class="container-full"><div class="mainrow"><style>.foot_wrapper{
+								text-align: center;
+							}
+				.foot_wrapper ul{
+					padding: 0;
+					margin: 0;
+				}
+				.foot_wrapper li{
+					display: inline;
+					border-right: 1px;
+				}
+ 
+				
+				.foot_wrapper a{
+					margin: 0 10px;
+					text-decoration: none;
+				 
+				}
+			</style><div class="foot_wrapper"><ul><li><a title="About Us" target="_blank" href="/about-us.php">About Us</a></li><li><a title="Copyright Infringement Notice Procedure" target="_blank" href="/copyright-infringement-notice-procedure.php">Copyright Infringement Notice Procedure</a></li><li><a title="Contact Us" target="_blank" href="/contact-us">Contact Us</a></li><li><a title="Privacy Policy" target="_blank" href="/privacy-policy.php">Privacy Policy</a></li><li><a title="Term Of Use" target="_blank" href="/term-of-use.php">Term Of Use</a></li></ul></div> <div class="bot-footer"><p>Copyright © 2022 https://motox3m.co All Rights Reserved.</p></div></div></div></div></div></body><script>$("#expand").on('click', function () {
+	$("#iframehtml5").addClass("force_full_screen"); 
+	requestFullScreen(document.body);
+ });
+
+ $("#_exit_full_screen").on('click', cancelFullScreen);
+
+ function requestFullScreen(element) {
+ // Supports most browsers and their versions.
+		var requestMethod = element.requestFullScreen || element.webkitRequestFullScreen || element.mozRequestFullScreen || element.msRequestFullScreen;
+
+	 if (requestMethod) { // Native full screen.
+		requestMethod.call(element);
+	 } else if (typeof window.ActiveXObject !== "undefined") { // Older IE.
+		 var wscript = new ActiveXObject("WScript.Shell");
+		 if (wscript !== null) {
+		 wscript.SendKeys("{F11}");
+		 }
+	 }
+ }
+
+ function cancelFullScreen() {
+	 $("#iframehtml5").removeClass("force_full_screen"); 
+	var requestMethod = document.cancelFullScreen || document.webkitCancelFullScreen || document.mozCancelFullScreen || document.exitFullScreenBtn;
+	 if (requestMethod) { // cancel full screen.
+		requestMethod.call(document);
+	 } else if (typeof window.ActiveXObject !== "undefined") { // Older IE.
+		 var wscript = new ActiveXObject("WScript.Shell");
+		 if (wscript !== null) {
+		 wscript.SendKeys("{F11}");
+		 }
+	 }
+ }
+
+ if (document.addEventListener) {
+	 document.addEventListener('webkitfullscreenchange', exitHandler, false);
+	 document.addEventListener('mozfullscreenchange', exitHandler, false);
+	 document.addEventListener('fullscreenchange', exitHandler, false);
+	 document.addEventListener('MSFullscreenChange', exitHandler, false);
+ }
+
+ function exitHandler() {
+	 if (document.webkitIsFullScreen === false
+	 || document.mozFullScreen === false
+	 || document.msFullscreenElement === false) {
+	 cancelFullScreen();
+	 }
+ }</script><style>
+	.force_full_screen{
+		position: fixed !important;
+		width: 100% !important;
+		height: 100% !important;
+		z-index: 999;
+		top: 0px !important;;
+		border: 0px !important;;
+		left: 0px !important;;
+		right: 0px !important;;
+	}</style></html>
